@@ -40,14 +40,13 @@ I'm a passionate software developer with a robust foundation in computer science
 ### 🗂️ [Project Manager](https://github.com/vraj2131/Project-manager)
 🛠️ Built a tool to manage, track, and organize projects with modern UI.
 
-### 🧠 [Community Answering System](https://github.com/vraj2131/Community-Answering)
+### 🧠 [Community Answering System](https://github.com/vraj2131/Community-QA-Moderation)
 💬 Leveraged LLMs and NLP techniques to classify, rephrase, and summarize community questions. Demonstrates my interest in explainable AI, multi-view classification, and prompt engineering.
 
 ---
 
 ## 🏆 Achievements & Certifications
 
-- 🧠 [Machine Learning & Data Science A-Z (Udemy)](https://www.udemy.com/certificate/UC-6bcafdc4-6583-43cc-9ca9-5ab731f886a1/)
 - 📄 [IEEE Research Publication – Malaria Diagnosis](https://ieeexplore.ieee.org/abstract/document/10420067/authors)
 - 🎤 Co-Organizer of TEDxPDEU 2023
 
