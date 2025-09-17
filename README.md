@@ -8,34 +8,38 @@
 
 ## 🧠 About Me
 
-I'm a passionate software developer with a robust foundation in computer science and a keen interest in artificial intelligence, machine learning, and large language models. My academic journey at Rutgers has equipped me with the skills to tackle complex problems and develop innovative solutions. I'm particularly fascinated by the capabilities of LLMs and their applications in real-world scenarios.
+I’m a software developer and aspiring AI engineer with a strong foundation in computer science and hands-on experience across data engineering, machine learning, and data science. My academic journey at Rutgers University has shaped my ability to design scalable systems and build intelligent solutions that bridge theory with real-world impact.
+
+I’m particularly passionate about large language models (LLMs) and agentic workflows, exploring how they can power next-generation applications by combining reasoning, autonomy, and adaptability. Alongside AI, I enjoy solving complex problems in distributed computing, developing efficient pipelines for data processing and analytics, and deploying robust software systems.
+
+I thrive at the intersection of software development and AI innovation, aiming to build products that are both technically sound and impactful.
 
 ---
 
 ## 🛠️ Technical Skills
 
 - **Languages:** Python, C, C++, JavaScript, HTML, CSS, Java, R  
-- **Core Concepts:** Data Structures, Machine Learning, Deep Learning, LLMs, OOPs, Operating Systems, DBMS, Internet Services, Computer Networks
+- **Core Concepts:** Data Structures, Machine Learning, Deep Learning, LLMs, OOPs, Operating Systems, DBMS, Internet Services, Computer Networks, Agentic Flow, Distributed Computing
 - **ML & NLP Libraries:** scikit-learn, SciPy, NumPy, Pandas, OpenCV, YOLO, NLTK, PyTorch, TensorFlow, Huggingface Transformers  
-- **Web:** React, FastAPI, Django, Flask, node.JS, Docker
-- **Database:** Postgres, MySQL, MongoDB, Vector Databases  
+- **Web:** React, FastAPI, Django, Flask, node.JS, Express.js,  Docker
+- **Database:** Postgres, MySQL, MongoDB, NoSQL, Vector Databases  
 - **Big Data & DevOps:** Apache Spark, Hadoop, Databricks, AWS, Azure, GCP
 
 ---
 
 ## 🚀 Projects
 
-### 🔒 [Detection of Malicious and Phishing Websites](https://github.com/vraj2131/Detection-of-Malicious_phishing_website)
-💡 Built an ensemble ML model using Random Forest, LightGBM, and XGBoost with lexical URL features to detect phishing.
+### 🔒 [ProphetX](https://github.com/vraj2131/ProphetX)
+💡 Developed a cloud-deployed Retail Sales Forecasting Dashboard using Prophet & SARIMA with rolling backtests and probabilistic forecasts.
 
 ### 🦠 [Malaria Diagnosis using Image Classification](https://github.com/vraj2131/Malaria-Diagnosis)
 🧬 Used CNNs with model subclassing and early stopping to achieve 93% accuracy in detecting infected blood cells.
 
-### 🧾 [Invoice Generator](https://github.com/vraj2131/Invoice_Generator)
-📄 A simple web app that generates and exports professional invoices as PDFs.
+### 🧾 [EduManage](https://github.com/vraj2131/EduManage)
+📄 Engineered a full-stack microservices-based web application using FastAPI, ReactJS, and MySQL to manage student registration, courses, attendance, and results with secure JWT authentication.
 
-### 🤖 [FlameBot: Grid Escape](https://github.com/vraj2131/FlameBot-Grid-Escape)
-🔥 Simulated AI bots navigating dynamic fire grids using probabilistic modeling and OOP design.
+### 🤖 [BillScale: Distributed Billing using MapReduce](https://github.com/vraj2131/Distributed-Billing-Aggregation-A-MapReduce-Approach-)
+🔥 Implemented a MapReduce-based billing aggregation system on AWS EKS with Kubernetes-orchestrated Spark jobs, enabling scalable and efficient distributed log processing.
 
 ### 🗂️ [Project Manager](https://github.com/vraj2131/Project-manager)
 🛠️ Built a tool to manage, track, and organize projects with modern UI.
