@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-I’m a software developer and aspiring AI engineer with a strong foundation in computer science and hands-on experience across data engineering, machine learning, and data science. My academic journey at Rutgers University has shaped my ability to design scalable systems and build intelligent solutions that bridge theory with real-world impact.
+I’m a software developer and aspiring AI engineer with a strong foundation in computer science and hands-on experience across Software Development, Rest APIs, Distributed Computing, Python including data engineering, machine learning, and data science. My academic journey at Rutgers University has shaped my ability to design scalable systems and build intelligent solutions that bridge theory with real-world impact.
 
 I’m particularly passionate about large language models (LLMs) and agentic workflows, exploring how they can power next-generation applications by combining reasoning, autonomy, and adaptability. Alongside AI, I enjoy solving complex problems in distributed computing, developing efficient pipelines for data processing and analytics, and deploying robust software systems.
 
